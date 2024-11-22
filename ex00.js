@@ -6,6 +6,7 @@ function sumArray(arr) {
     for(let i = 0; i < arr.length; i++){
         resulta = resulta + arr [i]
     }
+    return resulta;
 }
 
 // Exemples de test :
